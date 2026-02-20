@@ -1,5 +1,4 @@
 # Build a Banking System API with DJANGO Restframework
-![Banking System API Logo](./course_logo.png)
 
 We're going to take you step-by-step to build a modern, fully open-source,Banking System RESTful API using Python, Django Rest Framework.
 
@@ -51,10 +50,9 @@ OR
 
 If you want to see the blank project we created follow the link below.
 
-[1 - Blank Django Project](../../tree/96f545b069e1995c2662529f2d2e0decc1c4281c/)
 
 
-Now lets create an application called `api` inside our project `banksystem`. [To learn more about django applications.](https://docs.djangoproject.com/en/2.1/ref/applications/)
+Now lets create an application called `api` inside our project `banksystem`.
 
 [2 - Create api app](../../tree/084d648c94b0f11c89cbbcd930e2fce6e3687109/)
 
